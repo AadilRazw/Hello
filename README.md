@@ -1,2 +1,2 @@
 # Hello
-this is a test project
+This is an awesome test project.
